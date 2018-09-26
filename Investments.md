@@ -55,7 +55,7 @@ Stable {Triple AAA, Outlook: Stable} and ICRAA1+, indicating a very strong degre
 
 Shutting the rumours, DHFL has been reteriating that the company has neither defaulted on any bonds or repayment of its financial obligations, nor has there been any instance of delay on any repayment of any liability. 
 
-** I did an DCF calculation of DHFL and if all things are ok with the company then the stock is to be priced at 400-420.00**
+**I did an DCF calculation of DHFL and if all things are ok with the company then the stock is to be priced at 400-420.00**
 _Manapuram Finance_ :
 Again from the nbfc field. This script is a buy as per the DCF valuation fair value @ 98.00 trading at 79.00
 
