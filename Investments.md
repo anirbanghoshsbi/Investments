@@ -20,6 +20,7 @@ DSP MF later clarified it had sold Rs 200-300 crore worth of DHFL paper last wee
 
 Impact on other NBFCs and housing finance companies
 The crisis surrounding IL&FS has, quite visibly, spooked a lot of investors. What amounted to nothing more than a self-protective strategy by DSP MF, resulted in a hammering of stocks of NBFCs and housing finance companies on Friday.
+This is turning very tough job.
 
 This kind of reaction, although not unheard of, is rare for any market unless there are other major factors at play. And the one factor that has made most investors a bit nervous is the fact that even a 1-year commercial paper issued by a company like DHFL, which is one of the more trusted and popular issuers in the market, could not immediately find takers at a yield of 11 percent.
 
